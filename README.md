@@ -1,3 +1,14 @@
+<h1 align="center">📂 My Portfolio</h1>
+
+<p align="center">
+  🚀 Check out my work in progress here: <br><br>
+  <a href="https://portafolio-phi-six-35.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio Link" />
+  </a>
+</p>
+
+---
+
 <h1 align="center">Hi there! 👋 I'm <b>Ezequiel Salazar</b> 👨‍💻</h1>
 <h3 align="center">✨ I turn ideas 💡 into real-world digital solutions 💻</h3>
 
@@ -43,11 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino" />
 </div>
-
----
-
-### 📂 Portfolio in Progress  
-🔗 [Check out my portfolio here](https://portafolio-phi-six-35.vercel.app/)
 
 ---
 
