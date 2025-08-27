@@ -46,6 +46,11 @@
 
 ---
 
+### 📂 Portfolio in Progress  
+🔗 [Check out my portfolio here](https://portafolio-phi-six-35.vercel.app/)
+
+---
+
 ### 📫 Contact Me
 
 <div align="left">
