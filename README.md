@@ -24,7 +24,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer gif" />
 
 ### 🧠 About Me
-- 🎓 I'm a 6th semester Systems Engineering student.
+- 🎓 I'm a 8th semester Systems Engineering student.
 - 🚀 I create mobile & web apps using Flutter, React, and Flask.
 - 🧩 I love integrating hardware with software using Arduino & ESP32.
 - 📈 Always learning and improving my skills!
