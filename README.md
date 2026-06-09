@@ -1,149 +1,74 @@
-# 📂 Ezequiel Salazar Portfolio
+<h1 align="center">📂 My Portfolio</h1>
 
 <p align="center">
+  🚀 Check out my work in progress here: <br><br>
   <a href="https://portafolio-phi-six-35.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/Ezequie1Sc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Ezequie1Sc-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio Link" />
   </a>
 </p>
 
 ---
 
-# 👋 Hi, I'm Ezequiel Salazar
-
-### Software Developer | Systems Engineering Student | Technology Enthusiast
-
-I am a Systems Engineering student passionate about building software solutions that solve real-world problems.
-
-My focus is on developing modern web and mobile applications using React, Flutter, TypeScript, Python, and Flask while continuously expanding my knowledge in software architecture, APIs, cloud technologies, and artificial intelligence.
+<h1 align="center">Hi there! 👋 I'm <b>Ezequiel Salazar</b> 👨‍💻</h1>
+<h3 align="center">✨ I turn ideas 💡 into real-world digital solutions 💻</h3>
 
 ---
 
-## 🚀 Portfolio
-
-🔗 Live Website:
-
-https://portafolio-phi-six-35.vercel.app/
-
-The portfolio includes:
-
-* Professional projects with detailed case studies
-* Technical skills and technology stack
-* Certifications and achievements
-* Contact form integration
-* Responsive design
-* Modern UI/UX experience
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezequie1Sc&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer gif" />
 
-### Frontend
-
-* React
-* TypeScript
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Design
-
-### Mobile
-
-* Flutter
-* Dart
-
-### Backend
-
-* Python
-* Flask
-* REST APIs
-* SQLAlchemy
-
-### Databases
-
-* PostgreSQL
-* SQL
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Arduino IDE
-
-### Hardware & IoT
-
-* Arduino
-* ESP32
-* Sensors & Automation Systems
+### 🧠 About Me
+- 🎓 I'm a 8th semester Systems Engineering student.
+- 🚀 I create mobile & web apps using Flutter, React, and Flask.
+- 🧩 I love integrating hardware with software using Arduino & ESP32.
+- 📈 Always learning and improving my skills!
 
 ---
 
-## 📜 Certifications
+### 🚀 Tech Stack
 
-### Programming
-
-* JavaScript Algorithms and Data Structures — freeCodeCamp
-* Responsive Web Design — freeCodeCamp
-* Foundational C# with Microsoft
-* Python Programming — Cisco Networking Academy
-* Python Essentials — Cisco Networking Academy
-
-### Artificial Intelligence
-
-* Modern AI — Cisco
-* Claude Code in Action — Anthropic
-* Desarrollo con IA — BIG School
-* Integración de Inteligencia Artificial en Escenarios de Aprendizaje — Tecnológico Nacional de México
-
-### Data
-
-* Advanced SQL — Kaggle
-* Intro to SQL — Kaggle
-
-### Professional Skills
-
-* Professional Communication — LinkedIn Learning
-* English Level B1 Certification
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino" />
+</div>
 
 ---
 
-## 📈 GitHub Statistics
+### 📫 Contact Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezequie1Sc&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-## 🎯 Current Learning Goals
-
-* Advanced React
-* Angular
-* REST API Architecture
-* Docker
-* Cloud Computing
-* Software Design Patterns
+<div align="left">
+  <a href="mailto:ezequielsalazar017@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/ezequiel-salazar-194975340/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&style=for-the-badge" height="35" alt="slack logo" />
+</div>
 
 ---
 
-## 📫 Contact
-
-📧 Email: [ezequielsc017@gmail.com](mailto:ezequielsc017@gmail.com)
-
-💼 LinkedIn:
-https://www.linkedin.com/in/ezequiel-salazar-194975340/
-
-🐙 GitHub:
-https://github.com/Ezequie1Sc
-
-🌐 Portfolio:
-https://portafolio-phi-six-35.vercel.app/
-
----
-
-> "Technology is most valuable when it improves people's lives."
+<!-- <img src="https://raw.githubusercontent.com/Ezequie1Sc/Ezequie1Sc/output/snake.svg" alt="Snake animation" /> -->
