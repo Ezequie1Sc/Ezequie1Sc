@@ -15,8 +15,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=dracula&locale=en&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezequie1Sc&layout=compact&langs_count=8&theme=dracula&hide_border=false&bg_color=0D1117&title_color=ff79c6&text_color=f8f8f2&hide=html,css,jupyter%20notebook" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=dracula&locale=en&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezequie1Sc&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -57,14 +57,6 @@
 
 ---
 
-### 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezequie1Sc&theme=dracula&hide_border=false&background=0D1117&stroke=ff79c6&ring=8be9fd&fire=ff79c6&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff79c6&sideLabels=ff79c6&dates=ffffff" height="160" alt="GitHub Streak Stats" />
-</div>
-
----
-
 ### 📫 Contact Me
 
 <div align="left">
@@ -74,33 +66,6 @@
   <a href="https://www.linkedin.com/in/ezequiel-salazar-194975340/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://slack.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&style=for-the-badge" height="35" alt="slack logo" />
-  </a>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ezequie1Sc&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=4" height="150" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📊 Weekly Development Breakdown
-
-<!-- START_SECTION:waka -->
-<!-- Esta sección se actualizará automáticamente con WakaTime si lo configuras -->
-<!-- END_SECTION:waka -->
-
----
-
-### 👀 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ezequie1Sc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
