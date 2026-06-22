@@ -116,18 +116,6 @@
 
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ezequie1Sc&theme=dracula&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 ### 📫 Contact Me
 
 <div align="left">
@@ -139,15 +127,5 @@
 <a href="https://www.linkedin.com/in/ezequiel-salazar-194975340/">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" />
 </a>
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ezequie1Sc/Ezequie1Sc/output/snake.svg" alt="Snake animation" />
 
 </div>
