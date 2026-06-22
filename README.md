@@ -50,6 +50,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino" />
@@ -70,4 +72,8 @@
 
 ---
 
-<!-- <img src="https://raw.githubusercontent.com/Ezequie1Sc/Ezequie1Sc/output/snake.svg" alt="Snake animation" /> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ezequie1Sc/Ezequie1Sc/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ezequie1Sc/Ezequie1Sc/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ezequie1Sc/Ezequie1Sc/output/snake.svg" />
+</picture>
