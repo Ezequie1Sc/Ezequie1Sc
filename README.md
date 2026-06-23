@@ -3,7 +3,7 @@
 <p align="center">
   🚀 Check out my work in progress here:
   <br><br>
-  <a href="https://portafolio-phi-six-35.vercel.app/" target="_blank">
+  <a href="https://ezquieldev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio Link" />
   </a>
 </p>
