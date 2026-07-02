@@ -22,8 +22,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezequie1Sc&theme=dracula" height="160" />
-
+<img src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=dracula" height="160" />
 </div>
 
 <br>
