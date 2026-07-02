@@ -1,7 +1,7 @@
 <h1 align="center">📂 My Portfolio</h1>
 
 <p align="center">
-  🚀 Check out my work in progress here:
+  🚀 Check out my work in progress  here:
   <br><br>
   <a href="https://ezquieldev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio Link" />
