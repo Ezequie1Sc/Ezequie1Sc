@@ -18,23 +18,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" />
-
-<img src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=dracula" height="160" />
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequie1Sc&layout=compact&langs_count=8&theme=dracula" height="160" />
-
-</div>
-
------
-
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer gif" />
 
 ### 🧠 About Me
@@ -106,14 +89,6 @@
 </div>
 
 ---
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezequie1Sc&theme=dracula&hide_border=true" />
-
-</div>
 
 ### 📫 Contact Me
 
