@@ -112,14 +112,14 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ezequieldevsc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequieldevsc&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequie1Sc&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
 <!-- RACHA DE COMMITS (STREAK) -->
-<img width="80%" src="https://streak-stats.demolab.com?user=ezequieldevsc&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -131,13 +131,13 @@
 
 ### 📊 Commit Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ezequieldevsc&theme=tokyonight&hide_border=true&area=true&custom_title=Commit%20Activity%20Graph&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=8B5CF6&area_color=8B5CF6&title_color=8B5CF6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezequie1Sc&theme=tokyonight&hide_border=true&area=true&custom_title=Commit%20Activity%20Graph&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=8B5CF6&area_color=8B5CF6&title_color=8B5CF6"/>
 
 <br>
 
 ### 🔥 Commit Streak
 
-<img src="https://streak-stats.demolab.com?user=ezequieldevsc&theme=tokyonight&hide_border=true&mode=weekly"/>
+<img src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=tokyonight&hide_border=true&mode=weekly"/>
 
 </div>
 
