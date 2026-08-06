@@ -10,7 +10,9 @@
 
 ---
 
-<h1 align="center">Hi there! 👋 I'm <b>Ezequiel Salazar</b> 👨‍💻</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ezequiel+Salazar+%F0%9F%91%8B;Hola%2C+soy+Ezequiel+Salazar+%F0%9F%91%8B;Namaste%2C+I'm+Ezequiel+Salazar+%F0%9F%91%8B;Bonjour%2C+je+suis+Ezequiel+Salazar+%F0%9F%91%8B;Hallo%2C+ich+bin+Ezequiel+Salazar+%F0%9F%91%8B;Ciao%2C+sono+Ezequiel+Salazar+%F0%9F%91%8B;Ol%C3%A1%2C+eu+sou+Ezequiel+Salazar+%F0%9F%91%8B;Salam%2C+ana+Ezequiel+Salazar+%F0%9F%91%8B;Ni+Hao%2C+wo+shi+Ezequiel+Salazar+%F0%9F%91%8B;Konnichiwa%2C+watashi+wa+Ezequiel+Salazar+desu+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">
 ✨ I turn ideas 💡 into real-world digital solutions 💻
@@ -101,5 +103,52 @@
 <a href="https://www.linkedin.com/in/ezequiel-salazar-194975340/">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" />
 </a>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ezequieldevsc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequieldevsc&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<!-- RACHA DE COMMITS (STREAK) -->
+<img width="80%" src="https://streak-stats.demolab.com?user=ezequieldevsc&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Commit Statistics
+
+<div align="center">
+
+### 📊 Commit Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ezequieldevsc&theme=tokyonight&hide_border=true&area=true&custom_title=Commit%20Activity%20Graph&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=8B5CF6&area_color=8B5CF6&title_color=8B5CF6"/>
+
+<br>
+
+### 🔥 Commit Streak
+
+<img src="https://streak-stats.demolab.com?user=ezequieldevsc&theme=tokyonight&hide_border=true&mode=weekly"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Turning ideas into impactful software solutions."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
 
 </div>
