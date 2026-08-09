@@ -1,154 +1,157 @@
-<h1 align="center">📂 My Portfolio</h1>
+# 👋 Hi, I'm Ezequiel Salazar
 
-<p align="center">
-  🚀 Check out my work in progress  here:
-  <br><br>
-  <a href="https://ezquieldev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio Link" />
-  </a>
+### 🚀 Systems Engineering Student | Full-Stack & Mobile Developer
+
+I'm an 8th-semester Systems Engineering student passionate about building modern web and mobile applications. I enjoy turning ideas into practical software solutions and constantly exploring new technologies.
+
+---
+
+## 🏆 Holopin Badges
+
+[![An image of @ezequieldevsc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ezequieldevsc)](https://holopin.io/@ezequieldevsc)
+
+---
+
+## 🧠 About Me
+
+* 🎓 8th Semester Systems Engineering Student
+* 🚀 Mobile & Web Developer
+* 📱 Flutter Enthusiast
+* ⚛️ React & TypeScript Developer
+* 🅰️ Angular Developer
+* 🐍 Python Developer
+* ⚡ FastAPI & Flask Developer
+* 🗄️ PostgreSQL, MySQL & SQL Server
+* 🔌 IoT Projects with Arduino & ESP32
+* ☁️ Experience with Vercel, Render & GitHub
+* 📈 Constantly learning new technologies
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,dart,html,css" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,flutter,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,vercel,render" />
+</p>
+
+### 🔌 IoT & Hardware
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
 ---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ezequiel+Salazar+%F0%9F%91%8B;Hola%2C+soy+Ezequiel+Salazar+%F0%9F%91%8B;Namaste%2C+I'm+Ezequiel+Salazar+%F0%9F%91%8B;Bonjour%2C+je+suis+Ezequiel+Salazar+%F0%9F%91%8B;Hallo%2C+ich+bin+Ezequiel+Salazar+%F0%9F%91%8B;Ciao%2C+sono+Ezequiel+Salazar+%F0%9F%91%8B;Ol%C3%A1%2C+eu+sou+Ezequiel+Salazar+%F0%9F%91%8B;Salam%2C+ana+Ezequiel+Salazar+%F0%9F%91%8B;Ni+Hao%2C+wo+shi+Ezequiel+Salazar+%F0%9F%91%8B;Konnichiwa%2C+watashi+wa+Ezequiel+Salazar+desu+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
+## 🚀 Featured Projects
 
-<h3 align="center">
-✨ I turn ideas 💡 into real-world digital solutions 💻
-</h3>
+### 💼 Jobly — Job & Career Platform
 
----
+A modern job platform built with Angular and Tailwind CSS, designed to help users discover job opportunities and interact with an AI-powered assistant.
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer gif" />
-
-### 🧠 About Me
-
-- 🎓 8th Semester Systems Engineering Student
-- 🚀 Mobile & Web Developer
-- 📱 Flutter Enthusiast
-- ⚛️ React & TypeScript Developer
-- 🐍 Python Developer
-- 🔌 IoT Projects with Arduino & ESP32
-- 📈 Constantly learning new technologies
+**Technologies:** Angular · TypeScript · Tailwind CSS · FastAPI · Python · Gemini API
 
 ---
 
-### 🚀 Tech Stack
+### 🌦️ Atmosfera — Weather Dashboard
 
-<div align="left">
+A weather dashboard that provides meteorological information using external APIs and a modern responsive interface.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" />
-
-</div>
+**Technologies:** React · TypeScript · API Integration · Open-Meteo · Nominatim
 
 ---
 
-### 📫 Contact Me
+### 🌱 Smart Greenhouse — IoT
 
-<div align="left">
+An IoT project using an ESP32 and environmental sensors to monitor soil moisture and automate irrigation.
 
-<a href="mailto:ezequielsc017@gmail.com">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/ezequiel-salazar-194975340/">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" />
-</a>
-
-</div>
+**Technologies:** ESP32 · MicroPython · DHT11 · FC-28 · Flask · REST API
 
 ---
 
-# 📊 GitHub Stats
+### 📦 SIGEL — Inventory & Laboratory System
 
-<div align="center">
+A management application designed for inventory and laboratory processes.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+**Technologies:** Flutter · Flask RESTX · PostgreSQL
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequie1Sc&layout=compact&theme=tokyonight&hide_border=true"/>
+---
 
-<br><br>
+## 📊 GitHub Stats
 
-<!-- RACHA DE COMMITS (STREAK) -->
-<img width="80%" src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=tokyonight&hide_border=true" alt="Ezequiel's GitHub Stats" />
+</p>
 
-</div>
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequie1Sc&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
 
 ---
 
 # 📈 Commit Statistics
 
-<div align="center">
-
 ### 📊 Commit Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezequie1Sc&theme=tokyonight&hide_border=true&area=true&custom_title=Commit%20Activity%20Graph&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=8B5CF6&area_color=8B5CF6&title_color=8B5CF6"/>
-
-<br>
-
-### 🔥 Commit Streak
-
-<img src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=tokyonight&hide_border=true&mode=weekly"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezequie1Sc&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
-<div align="center">
+### 🔥 Commit Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏅 GitHub Achievements
+
+I'm actively contributing to open-source projects, improving documentation, solving issues, and building projects with modern technologies.
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="https://github.com/Ezequie1Sc">
+    <img src="https://img.shields.io/badge/GitHub-Ezequie1Sc-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
 
 ### ⭐ Thanks for visiting my profile!
 
 *"Turning ideas into impactful software solutions."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
-
-</div>
