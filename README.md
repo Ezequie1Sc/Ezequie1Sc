@@ -23,8 +23,6 @@
   ✨ I turn ideas 💡 into real-world digital solutions 💻
 </h3>
 
----
-
 <img
   align="right"
   height="150"
