@@ -42,24 +42,23 @@
 ---
 
 ### 🚀 Tech Stack
+### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,angular,typescript,javascript" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,dapr" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,cs,java" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,arduino,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino" />
 </p>
-
----
 
 ### 📫 Contact Me
 
