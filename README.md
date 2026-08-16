@@ -10,8 +10,7 @@
     />
   </a>
 </p>
----
----
+
 <h1 align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ezequiel+Salazar+%F0%9F%91%8B;Hola%2C+soy+Ezequiel+Salazar+%F0%9F%91%8B;Namaste%2C+I'm+Ezequiel+Salazar+%F0%9F%91%8B;Bonjour%2C+je+suis+Ezequiel+Salazar+%F0%9F%91%8B;Hallo%2C+ich+bin+Ezequiel+Salazar+%F0%9F%91%8B;Ciao%2C+sono+Ezequiel+Salazar+%F0%9F%91%8B;Ol%C3%A1%2C+eu+sou+Ezequiel+Salazar+%F0%9F%91%8B;Salam%2C+ana+Ezequiel+Salazar+%F0%9F%91%8B;Ni+Hao%2C+wo+shi+Ezequiel+Salazar+%F0%9F%91%8B;Konnichiwa%2C+watashi+wa+Ezequiel+Salazar+desu+%F0%9F%91%8B"
