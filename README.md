@@ -86,29 +86,40 @@
 
 ---
 
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Ezequie1Sc">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=3600"
+    alt="Ezequiel's GitHub Stats"
+  />
+</a>
+
+<a href="https://github.com/Ezequie1Sc">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezequie1Sc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=3600"
+    alt="Ezequiel's Top Languages"
+  />
+</a>
+
+</div>
+
+---
+
 # 🔥 GitHub Streak
 
 <div align="center">
 
 <img
   width="80%"
-  src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=tokyonight&hide_border=true&cache_seconds=86400"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-# 📈 Commit Statistics
-
-<div align="center">
-
-### 📊 Commit Activity Graph
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Ezequie1Sc&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit%20Activity%20Graph&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=8B5CF6&area_color=8B5CF6&title_color=8B5CF6"
-  alt="Commit Activity Graph"
+  src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=tokyonight&hide_border=true"
+  alt="Ezequiel's GitHub Streak"
 />
 
 </div>
