@@ -1,4 +1,4 @@
-<h1 align="center">📂 My Portfolio</h1>
+<h1 align="center">📂 My Portfoli</h1>
 
 <p align="center">
   🚀 Check out my work in progress here:
