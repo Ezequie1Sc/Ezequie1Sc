@@ -28,6 +28,17 @@ height="150"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 alt="Developer gif"
 />
+### 🧠 About Me
+
+* 🎓 8th Semester Systems Engineering Student
+* 🚀 Mobile & Web Developer
+* 📱 Flutter Enthusiast
+* ⚛️ React & TypeScript Developer
+* 🐍 Python Developer
+* 🔌 IoT Projects with Arduino & ESP32
+* 📈 Constantly learning new technologies
+
+---
 
 
 ### 🚀 Tech Stack
