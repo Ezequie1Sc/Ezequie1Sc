@@ -1,7 +1,11 @@
 # My Portfolio README
 
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Ezequiel Salazar Portfolio Banner" width="100%" />
+  <img 
+    src="./assets/banner.jpg" 
+    alt="Ezequiel Salazar Portfolio Banner" 
+    width="100%" 
+  />
 </p>
 
 <h1 align="center">My Portfolio</h1>
@@ -29,47 +33,44 @@
 </p>
 
 <p align="center">
-  Turning ideas into impactful digital solutions.
+  ✨ Turning ideas into impactful digital solutions.
 </p>
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="center">
+<div align="center">
 
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,angular,ts,js,html,css" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,angular,ts,js,html,css" alt="Frontend and Mobile Technologies" />
 
-  <br><br>
+<br><br>
 
-  <img src="https://skillicons.dev/icons?i=python,cs,java,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cs,java,postgres,mysql" alt="Languages and Databases" />
 
-  <br><br>
+<br><br>
 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino" alt="Development Tools" />
 
-</p>
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 🔗 Let's Connect
 
-<p align="center">
+<div align="center">
 
-  <a href="mailto:ezequielsc017@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
+<a href="mailto:ezequielsc017@gmail.com">
+  <img 
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Gmail"
+  />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ezequiel-salazar-194975340/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+    alt="LinkedIn"
+  />
+</a>
 
-  &nbsp;
-
-  <a href="https://www.linkedin.com/in/ezequiel-salazar-194975340/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-</p>
+</div>
