@@ -32,27 +32,6 @@
   ✨ Turning ideas into impactful digital solutions.
 </h3>
 
-<br>
-
-<img
-  align="right"
-  height="170"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="Developer coding"
-/>
-
-## 🧠 About Me
-
-- 🎓 8th Semester Systems Engineering Student
-- 🚀 Mobile & Web Developer
-- 📱 Flutter Developer
-- ⚛️ React & TypeScript Developer
-- 🐍 Python Developer
-- 🔌 Interested in IoT projects with Arduino & ESP32
-- 🌱 Continuously learning, building, and contributing to new projects
-
-<br clear="right"/>
-
 ---
 
 ## 🚀 Tech Stack
@@ -127,8 +106,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
 <p align="center">
 
 <a href="https://github.com/Ezequie1Sc">
@@ -150,8 +127,6 @@
 </p>
 
 ---
-
-## 🔥 Contribution Streak
 
 <p align="center">
 
@@ -179,12 +154,6 @@
 ---
 
 <p align="center">
-
-### ⭐ Thanks for visiting!
-
-*"Turning ideas into impactful software solutions."*
-
-<br>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"
