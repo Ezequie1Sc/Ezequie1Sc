@@ -1,3 +1,9 @@
+# My Portfolio README
+
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Ezequiel Salazar Portfolio Banner" width="100%" />
+</p>
+
 <h1 align="center">📂 My Portfolio</h1>
 
 <p align="center">
@@ -13,7 +19,7 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ezequiel+Salazar+%F0%9F%91%8B;Hola%2C+soy+Ezequiel+Salazar+%F0%9F%91%8B;Namaste%2C+I'm+Ezequiel+Salazar+%F0%9F%91%8B;Bonjour%2C+je+suis+Ezequiel+Salazar+%F0%9F%91%8B;Hallo%2C+ich+bin+Ezequiel+Salazar+%F0%9F%91%8B;Ciao%2C+sono+Ezequiel+Salazar+%F0%9F%91%8B;Ol%C3%A1%2C+eu+sou+Ezequiel+Salazar+%F0%9F%91%8B;Salam%2C+ana+Ezequiel+Salazar+%F0%9F%91%8B;Ni+Hao%2C+wo+shi+Ezequiel+Salazar+%F0%9F%91%8B;Konnichiwa%2C+watashi+wa+Ezequiel+Salazar+desu+%F0%9F%91%8B"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ezequiel+Salazar+%F0%9F%91%8B;Hola%2C+soy+Ezequiel+Salazar+%F0%9F%91%8B;Namaste%2C+I'm+Ezequiel+Salazar+%F0%9F%91%8B;Bonjour%2C+je+suis+Ezequiel+Salazar+%F0%9F%91%8B;Hallo%2C+ich+bin+Ezequiel+Salazar+%F0%9F%91%8B;Ciao%2C+sono+Ezequiel+Salazar+%F0%9F%91%8B;Olá%2C+eu+sou+Ezequiel+Salazar+%F0%9F%91%8B;Salam%2C+ana+Ezequiel+Salazar+%F0%9F%91%8B;Ni+Hao%2C+wo+shi+Ezequiel+Salazar+%F0%9F%91%8B;Konnichiwa%2C+watashi+wa+Ezequiel+Salazar+desu+%F0%9F%91%8B"
     alt="Typing SVG"
   />
 </h1>
@@ -28,6 +34,7 @@ height="150"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 alt="Developer gif"
 />
+
 ### 🧠 About Me
 
 * 🎓 8th Semester Systems Engineering Student
@@ -40,64 +47,48 @@ alt="Developer gif"
 
 ---
 
-
 ### 🚀 Tech Stack
 
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 
 <br><br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 
 <br><br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
 
 </div>
