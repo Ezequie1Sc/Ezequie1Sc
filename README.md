@@ -104,60 +104,6 @@
 
 </p>
 
----
 
-<p align="center">
-
-<a href="https://github.com/Ezequie1Sc">
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=Ezequie1Sc&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Ezequiel's GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/Ezequie1Sc">
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=Ezequie1Sc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Ezequiel's Top Languages"
-  />
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img
-  width="80%"
-  src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=tokyonight&hide_border=true"
-  alt="Ezequiel's GitHub Streak"
-/>
-
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Ezequie1Sc&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area_color=8B5CF6&title_color=FFFFFF"
-  alt="Contribution Activity Graph"
-/>
-
-</p>
-
----
-
-<p align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"
-  alt="Footer"
-/>
 
 </p>
