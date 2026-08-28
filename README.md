@@ -1,5 +1,3 @@
-# My Portfolio
-
 <p align="center">
   <img 
     src="./assets/banner2.png" 
