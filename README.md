@@ -1,4 +1,4 @@
-# My Portfolio README
+# My Portfolio
 
 <p align="center">
   <img 
