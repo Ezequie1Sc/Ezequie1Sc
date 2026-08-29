@@ -54,6 +54,17 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-trophies.devomb.com/?username=Ezequie1Sc&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
 ## 🔗 Let's Connect
 
 <div align="center">
