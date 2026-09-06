@@ -25,9 +25,6 @@
   />
 </p>
 
-<p align="center">
-  ✨ Turning ideas into impactful digital solutions.
-</p>
 
 ---
 
