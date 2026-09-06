@@ -7,11 +7,6 @@
 </p>
 
 <h1 align="center">My Portfolio</h1>
-
-<p align="center">
-  Building ideas into real-world digital solutions.
-</p>
-
 <p align="center">
   <a href="https://ezquieldev.vercel.app/" target="_blank">
     <img
