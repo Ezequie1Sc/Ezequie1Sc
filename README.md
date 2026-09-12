@@ -7,6 +7,7 @@
 </p>
 
 <h1 align="center">My Portfolio web</h1>
+
 <p align="center">
   <a href="https://ezquieldev.vercel.app/" target="_blank">
     <img
@@ -25,22 +26,30 @@
   />
 </p>
 
-
 ---
 
 ## 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,angular,ts,js,html,css" alt="Frontend and Mobile Technologies" />
+<img 
+  src="https://skillicons.dev/icons?i=flutter,dart,react,angular,ts,js,html,css" 
+  alt="Frontend and Mobile Technologies" 
+/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,cs,java,postgres,mysql" alt="Languages and Databases" />
+<img 
+  src="https://skillicons.dev/icons?i=python,cs,java,postgres,mysql" 
+  alt="Languages and Databases" 
+/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino" alt="Development Tools" />
+<img 
+  src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino" 
+  alt="Development Tools" 
+/>
 
 </div>
 
@@ -50,7 +59,7 @@
 
 <p align="center">
   <img
-    src="https://github-trophies.devomb.com/?username=Ezequie1Sc&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7"
+    src="https://github-trophies.devomb.com/?username=Ezequie1Sc&theme=onedark&rank=S,AAA,AA,A&no-frame=true&no-bg=true&margin-w=6&column=7"
     alt="GitHub Trophies"
   />
 </p>
@@ -66,7 +75,10 @@
     src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
     alt="Gmail"
   />
-</a>&nbsp;&nbsp;
+</a>
+
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/ezequiel-salazar-194975340/" target="_blank">
   <img 
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
