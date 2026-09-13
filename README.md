@@ -7,8 +7,9 @@
 </p>
 
 <h1 align="center">My Portfolio web</h1>
+
 <p align="center">
-  <a href="[https://ezquieldev.vercel.app/](https://ezequiel-dev-ia.vercel.app/)" target="_blank">
+  <a href="https://ezequiel-dev-ia.vercel.app/" target="_blank">
     <img
       src="https://img.shields.io/badge/VISIT%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Visit Portfolio"
@@ -24,7 +25,6 @@
     alt="Typing SVG"
   />
 </p>
-
 
 ---
 
@@ -43,6 +43,17 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino" alt="Development Tools" />
 
 </div>
+
+---
+
+## 🔥 GitHub Commit Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"
+    alt="GitHub Commit Streak"
+  />
+</p>
 
 ---
 
@@ -67,6 +78,7 @@
     alt="Gmail"
   />
 </a>&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/ezequiel-salazar-194975340/" target="_blank">
   <img 
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
