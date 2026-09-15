@@ -6,13 +6,13 @@
   />
 </p>
 
-<h1 align="center">My Portfolio</h1>
+<h1 align="center">My Portfolio web</h1>
 
 <p align="center">
   <a href="https://ezequiel-dev-ia.vercel.app/" target="_blank">
     <img
       src="https://img.shields.io/badge/VISIT%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Visit Portfolio"
+      alt="Portfolio"
     />
   </a>
 </p>
