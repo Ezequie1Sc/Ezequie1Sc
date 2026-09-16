@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">My Portfolio web</h1>
+<h1 align="center">My Portfolio.</h1>
 
 <p align="center">
   <a href="https://ezequiel-dev-ia.vercel.app/" target="_blank">
