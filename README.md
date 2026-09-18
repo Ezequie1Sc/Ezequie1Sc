@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="./assets/banner2.png" 
-    alt="Ezequiel Salazar Portfolio Banner" 
+    alt="Ezequiel Salazar banner" 
     width="100%" 
   />
 </p>
