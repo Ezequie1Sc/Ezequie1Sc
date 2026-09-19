@@ -46,7 +46,7 @@
 
 ---
 
-## 🔥 GitHub Commit Streak
+## 🔥 GitHub Commit 
 
 <p align="center">
   <img
