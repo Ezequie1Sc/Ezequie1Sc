@@ -47,8 +47,14 @@
 ---
 
 
-## 🔥 GitHub Commit 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ezequie1Sc&theme=nightowl&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+## 🔥 GitHub Commit Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Ezequie1Sc&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&locale=es"
+    alt="GitHub Commit Streak de Ezequiel"
+  />
+</p>
 
 ## 🏆 GitHub Trophies
 
