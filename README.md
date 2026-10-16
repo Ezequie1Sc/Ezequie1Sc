@@ -47,15 +47,7 @@
 ---
 
 
-## 🔥 GitHub Commit S
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Ezequie1Sc&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&locale=es"
-    alt="GitHub Commit Streak de Ezequiel"
-  />
-</p>
-
+#
 ## 🏆 GitHub Trophies
 
 <p align="center">
