@@ -1,9 +1,13 @@
 
 <div align="center">
 
-<img src="./assets/banner2.png" alt="Ezequiel Salazar — Developer" width="100%" />
+<img
+  src="./assets/banner2.png"
+  alt="Ezequiel Salazar — Developer"
+  width="100%"
+/>
 
-<br/>
+<br/><br/>
 
 <a href="https://ezequieel-dev.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -17,7 +21,10 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ezequiel+Salazar+%F0%9F%91%8B;Computer+Systems+Engineering+Student;Full+Stack+%26+Mobile+Developer;Open+Source+Contributor;Always+Learning%2C+Always+Building" alt="Typing animation"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ezequiel+Salazar+%F0%9F%91%8B;Computer+Systems+Engineering+Student;Full+Stack+%26+Mobile+Developer;Open+Source+Contributor;Always+Learning%2C+Always+Building"
+  alt="Typing animation"
+/>
 
 <br/>
 
@@ -50,31 +57,40 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
 
 **Frontend & Mobile Development**
 
-<br/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=angular,react,flutter,dart,ts,js,html,css,tailwind&perline=9" alt="Frontend and Mobile"/>
+<img
+  src="https://skillicons.dev/icons?i=angular,react,flutter,dart,ts,js,html,css,tailwind&perline=9"
+  alt="Frontend and Mobile Technologies"
+/>
 
 <br/><br/>
 
 **Backend & Databases**
 
-<br/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,cs,java,nodejs,postgres,mysql,supabase&perline=8" alt="Backend and Databases"/>
+<img
+  src="https://skillicons.dev/icons?i=python,fastapi,cs,java,nodejs,postgres,mysql,supabase&perline=8"
+  alt="Backend and Databases"
+/>
 
 <br/><br/>
 
 **Tools & Platforms**
 
-<br/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,vercel,postman,arduino&perline=8" alt="Development Tools"/>
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,vercel,postman,arduino&perline=8"
+  alt="Development Tools"
+/>
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -82,19 +98,6 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
   src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6"
   alt="GitHub Commit Streak"
   width="80%"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF"
-  alt="GitHub Statistics"
-  width="49%"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequie1Sc&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF"
-  alt="Most Used Languages"
-  width="41%"
 />
 
 </div>
@@ -185,7 +188,7 @@ Through open-source contributions, developer communities, and technical challeng
 
 I share my learning journey, technical discoveries, and experiences as a developer.
 
-<br/>
+<br/><br/>
 
 <a href="https://dev.to/ezequie1sc">
   <img
@@ -203,16 +206,28 @@ I share my learning journey, technical discoveries, and experiences as a develop
 <div align="center">
 
 <a href="mailto:ezequielsc017@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
 </a>
 <a href="https://www.linkedin.com/in/ezequiel-salazar-194975340/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 <a href="https://dev.to/ezequie1sc">
-  <img src="https://img.shields.io/badge/DEV.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"/>
+  <img
+    src="https://img.shields.io/badge/DEV.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=white"
+    alt="DEV.to"
+  />
 </a>
 <a href="https://ezequieel-dev.vercel.app/">
-  <img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  <img
+    src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Website"
+  />
 </a>
 
 <br/><br/>
