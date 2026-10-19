@@ -50,17 +50,23 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
 
 **Frontend & Mobile Development**
 
+<br/>
+
 <img src="https://skillicons.dev/icons?i=angular,react,flutter,dart,ts,js,html,css,tailwind&perline=9" alt="Frontend and Mobile"/>
 
-<br/>
+<br/><br/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,cs,java,nodejs,postgres,mysql,supabase&perline=8" alt="Backend and Databases"/>
-
 <br/>
 
+<img src="https://skillicons.dev/icons?i=python,fastapi,cs,java,nodejs,postgres,mysql,supabase&perline=8" alt="Backend and Databases"/>
+
+<br/><br/>
+
 **Tools & Platforms**
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,vercel,postman,arduino&perline=8" alt="Development Tools"/>
 
@@ -72,12 +78,24 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezequie1Sc&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6" alt="GitHub Streak" width="85%"/>
+<img
+  src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6"
+  alt="GitHub Commit Streak"
+  width="80%"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF" alt="GitHub Statistics" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequie1Sc&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF" alt="Most Used Languages" width="41%"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF"
+  alt="GitHub Statistics"
+  width="49%"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequie1Sc&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF"
+  alt="Most Used Languages"
+  width="41%"
+/>
 
 </div>
 
@@ -87,7 +105,11 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
 
 <div align="center">
 
-<img src="https://github-trophies.devomb.com/?username=Ezequie1Sc&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" width="100%"/>
+<img
+  src="https://github-trophies.devomb.com/?username=Ezequie1Sc&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6"
+  alt="GitHub Trophies"
+  width="100%"
+/>
 
 </div>
 
@@ -105,15 +127,34 @@ Participating in hackathons has been an incredible opportunity to challenge my s
 
 <br/>
 
-<img src="./assets/hackaton.png" alt="Hackathon Participation Achievement" width="78%"/>
-
-<br/><br/>
-
-<img src="./assets/destacado.png" alt="Hackathon Featured Achievement" width="78%"/>
+<table>
+  <tr>
+    <td align="center" width="190">
+      <img
+        src="./assets/hackaton.png"
+        alt="Hacktoberfest 2026"
+        width="140"
+      />
+      <br/>
+      <sub><b>Hacktoberfest 2026</b></sub>
+    </td>
+    <td align="center" width="190">
+      <img
+        src="./assets/destacado.png"
+        alt="Featured Achievement"
+        width="140"
+      />
+      <br/>
+      <sub><b>Featured Achievement</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-**Hackathon Participant · Community Engagement · Continuous Learning**
+<sub>
+  🏆 Hackathon Participant · Open Source · Community Engagement
+</sub>
 
 </div>
 
@@ -128,13 +169,10 @@ Through open-source contributions, developer communities, and technical challeng
 <div align="center">
 
 <a href="https://github.com/Ezequie1Sc?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
-</a>
-
-<br/><br/>
-
-<a href="https://holopin.io/">
-  <img src="https://img.shields.io/badge/HOLOPIN-Developer_Badges-8B5CF6?style=flat-square" alt="Holopin"/>
+  <img
+    src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore Projects"
+  />
 </a>
 
 </div>
@@ -147,8 +185,13 @@ Through open-source contributions, developer communities, and technical challeng
 
 I share my learning journey, technical discoveries, and experiences as a developer.
 
+<br/>
+
 <a href="https://dev.to/ezequie1sc">
-  <img src="https://img.shields.io/badge/READ_MY_ARTICLES-0D1117?style=for-the-badge&logo=devdotto&logoColor=white" alt="Read My Articles"/>
+  <img
+    src="https://img.shields.io/badge/READ_MY_ARTICLES-0D1117?style=for-the-badge&logo=devdotto&logoColor=white"
+    alt="Read My Articles"
+  />
 </a>
 
 </div>
@@ -174,7 +217,10 @@ I share my learning journey, technical discoveries, and experiences as a develop
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ezequie1Sc&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile Views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=Ezequie1Sc&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square"
+  alt="Profile Views"
+/>
 
 <br/><br/>
 
