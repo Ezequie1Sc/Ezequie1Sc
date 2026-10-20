@@ -54,72 +54,47 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
 ## ⚡ Tech Stack
 
 <div align="center">
-
 **Frontend & Mobile Development**
-
 <br/><br/>
-
 <img
   src="https://skillicons.dev/icons?i=angular,react,flutter,dart,ts,js,html,css,tailwind&perline=9"
   alt="Frontend and Mobile Technologies"
 />
-
 <br/><br/>
-
 **Backend & Databases**
-
 <br/><br/>
-
 <img
   src="https://skillicons.dev/icons?i=python,fastapi,cs,java,nodejs,postgres,mysql,supabase&perline=8"
   alt="Backend and Databases"
 />
-
 <br/><br/>
-
 **Tools & Platforms**
-
 <br/><br/>
-
 <img
   src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,vercel,postman,arduino&perline=8"
   alt="Development Tools"
 />
-
 </div>
-
 ---
-
 ## 🔥 GitHub Streak
-
 <div align="center">
-
 <img
   src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6"
   alt="GitHub Commit Streak"
   width="80%"
 />
-
 </div>
-
 ---
-
 ## 🏆 GitHub Trophies
-
 <div align="center">
-
 <img
   src="https://github-trophies.devomb.com/?username=Ezequie1Sc&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6"
   alt="GitHub Trophies"
   width="100%"
 />
-
 </div>
-
 ---
-
 ## 🏅 Hackathons & Achievements
-
 <div align="center">
 
 ### Global Hack Week · 2026
@@ -127,9 +102,7 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
 *Learning, building, collaborating, and turning ideas into real projects.*
 
 Participating in hackathons has been an incredible opportunity to challenge my skills, explore emerging technologies, and connect with developers from around the world.
-
 <br/>
-
 <table>
   <tr>
     <td align="center" width="190">
