@@ -3,7 +3,7 @@
   <img src="./assets/banner2.png" alt="Ezequiel Salazar — Developer" width="100%"/>
 
   <a href="https://ezequieel-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portf"/>
   </a>
   <a href="https://dev.to/ezequie1sc">
     <img src="https://img.shields.io/badge/DEV.COMMUNITY-0D1117?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community"/>
