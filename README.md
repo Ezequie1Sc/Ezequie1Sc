@@ -40,7 +40,6 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
 ---
 
 ## ⚡ Tech Stack
-
 <div align="center">
   <b>Frontend & Mobile Development</b>
   <p>
