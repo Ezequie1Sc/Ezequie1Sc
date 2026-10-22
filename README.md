@@ -14,7 +14,6 @@
   <a href="https://holopin.io/@ezequieldevsc">
     <img src="https://img.shields.io/badge/HOLOPIN-8B5CF6?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Holopin"/>
   </a>
-
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ezequiel+Salazar+%F0%9F%91%8B;Computer+Systems+Engineering+Student;Full+Stack+%26+Mobile+Developer;Open+Source+Contributor;Always+Learning%2C+Always+Building" alt="Typing animation"/>
 
   <b>Computer Systems Engineering Student · Full Stack & Mobile Developer</b>
