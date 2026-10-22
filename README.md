@@ -62,15 +62,12 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
   <img src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6" alt="GitHub Commit Streak" width="75%"/>
 </div>
 ---
-
 ## 🏆 GitHub Trophies
-
 <div align="center">
   <img src="https://github-trophies.devomb.com/?username=Ezequie1Sc&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
-
 ## 🏅 Hackathons & Achievements
 
 <div align="center">
