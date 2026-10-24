@@ -64,10 +64,8 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
 <div align="center">
   <img src="https://github-trophies.devomb.com/?username=Ezequie1Sc&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" width="100%"/>
 </div>
-
 ---
 ## 🏅 Hackathons & Achievements
-
 <div align="center">
   <h3>Global Hack Week · 2026</h3>
   <i>Learning, building, collaborating, and turning ideas into real projects.</i>
