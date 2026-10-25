@@ -1,7 +1,6 @@
 
 <div align="center">
   <img src="./assets/banner2.png" alt="Ezequiel Salazar — Developer" width="100%"/>
-
   <a href="https://ezequieel-dev.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portf"/>
   </a>
