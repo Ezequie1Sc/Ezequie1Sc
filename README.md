@@ -89,7 +89,6 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
 ---
 
 ## 🎖️ Holopin Badges
-
 <div align="center">
   <p>
     A collection of badges earned through open-source contributions, hackathons, developer communities, and continuous learning.
