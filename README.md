@@ -33,7 +33,6 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
 - 🎯 Driven by curiosity, innovation, and continuous learning
 
 ---
-
 ## ⚡ Tech Stack
 <div align="center">
   <b>Frontend & Mobile Development</b>
