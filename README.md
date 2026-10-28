@@ -51,7 +51,6 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
 </div>
 
 ---
-
 ## 🔥 GitHub Streak
 
 <div align="center">
