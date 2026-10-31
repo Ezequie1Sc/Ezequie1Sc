@@ -18,7 +18,6 @@
 
   <i>Building meaningful digital experiences, one commit at a time.</i>
 </div>
----
 #About Me
 I'm a passionate **Computer Systems Engineering student** from Mexico, focused on creating modern, scalable, and meaningful digital solutions.
 
