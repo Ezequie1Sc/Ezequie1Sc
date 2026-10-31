@@ -82,8 +82,6 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
   <sub>🏆 Hackathon Participant · Open Source · Community Engagement</sub>
 </div>
 
----
-
 ## 🎖️ Holopin Badges
 <div align="center">
   <p>
