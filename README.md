@@ -124,6 +124,7 @@ Through open-source contributions, developer communities, and technical challeng
     <img src="https://img.shields.io/badge/READ_MY_ARTICLES-0D1117?style=for-the-badge&logo=devdotto&logoColor=white" alt="Read My Articles"/>
   </a>
 </div>
+
 ## 🤝 Let's Connect
 <div align="center">
   <a href="mailto:ezequielsc017@gmail.com">
