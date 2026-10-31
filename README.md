@@ -29,7 +29,7 @@ I enjoy exploring new technologies, developing web and mobile applications, cont
 - 🏆 Participating in **Hackathons & Developer Challenges**
 - 🎯 Driven by curiosity, innovation, and continuous learning
 
----
+-
 ## ⚡ Tech Stack
 <div align="center">
   <b>Frontend & Mobile Development</b>
