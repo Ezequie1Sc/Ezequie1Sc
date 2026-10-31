@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="./assets/banner2.png" alt="Ezequiel Salazar — Developer" width="100%"/>
   <a href="https://ezequieel-dev.vercel.app/">
