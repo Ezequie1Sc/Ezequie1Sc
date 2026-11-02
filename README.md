@@ -107,7 +107,6 @@ Through open-source contributions, developer communities, and technical challeng
   </a>
 </div>
 
----
 
 ## ✍️ Writing & Sharing on DEV
 
