@@ -1,7 +1,6 @@
 
 <div align="center">
 <img src="./assets/banner2.png" width="100%" alt="Ezequiel Salazar" />
-
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ezequiel+Salazar;Your+Friendly+Neighborhood+Developer;Full+Stack+%26+Mobile+Developer;Welcome+to+my+Dev-Verse!" alt="Typing animation" />
 <br/>
