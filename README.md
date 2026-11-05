@@ -114,7 +114,6 @@ I enjoy exploring **AI, cloud technologies, software architecture**, and contrib
 ---
 
 ### 06. Open a Portal
-
 <div align="center">
 
 <a href="mailto:ezequielsc017@gmail.com">
