@@ -106,8 +106,6 @@ I enjoy exploring **AI, cloud technologies, software architecture**, and contrib
 
 </div>
 
----
-
 ### 06. Open a Portal
 <div align="center">
 
