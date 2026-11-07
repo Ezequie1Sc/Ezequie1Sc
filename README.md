@@ -6,7 +6,6 @@
 <br/>
 **FULL STACK DEVELOPER · OPEN SOURCE · TECH ENTHUSIAST**
 <sub>With great code comes great responsibility.</sub>
-
 <br/><br/>
 
 <a href="https://ezequieel-dev.vercel.app/">
