@@ -91,7 +91,6 @@ I enjoy exploring **AI, cloud technologies, software architecture**, and contrib
 
 </div>
 
----
 
 ### 05. Multiverse Badge Collection
 
