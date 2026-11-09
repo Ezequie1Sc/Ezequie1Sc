@@ -7,7 +7,6 @@
 **FULL STACK DEVELOPER · OPEN SOURCE · TECH ENTHUSIAST**
 <sub>With great code comes great responsibility.</sub>
 <br/><br/>
-
 <a href="https://ezequieel-dev.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
