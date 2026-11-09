@@ -29,8 +29,6 @@ I enjoy exploring **AI, cloud technologies, software architecture**, and contrib
 - Learning and experimenting with new technologies.
 - Contributing to Open Source and participating in hackathons.
 
----
-
 ### 02. My Tech Arsenal
 
 <div align="center">
