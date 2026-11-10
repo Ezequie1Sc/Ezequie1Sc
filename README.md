@@ -60,7 +60,6 @@ I enjoy exploring **AI, cloud technologies, software architecture**, and contrib
 
 </div>
 
----
 
 ### 04. Achievements Unlocked
 
