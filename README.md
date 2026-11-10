@@ -24,7 +24,6 @@
 I'm **Ezequiel**, a Computer Systems Engineering student from Mexico, passionate about building modern web and mobile applications.
 
 I enjoy exploring **AI, cloud technologies, software architecture**, and contributing to open-source communities.
-
 - Building real-world Full Stack applications.
 - Learning and experimenting with new technologies.
 - Contributing to Open Source and participating in hackathons.
