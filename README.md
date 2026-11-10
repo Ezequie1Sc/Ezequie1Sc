@@ -99,7 +99,6 @@ I enjoy exploring **AI, cloud technologies, software architecture**, and contrib
 
 ### 06. Open a Portal
 <div align="center">
-
 <a href="mailto:ezequielsc017@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-E63946?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
