@@ -18,7 +18,6 @@
 </a>
 
 </div>
-
 ### 01. The Origin Story
 
 I'm **Ezequiel**, a Computer Systems Engineering student from Mexico, passionate about building modern web and mobile applications.
