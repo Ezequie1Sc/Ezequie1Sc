@@ -49,7 +49,6 @@ I enjoy exploring **AI, cloud technologies, software architecture**, and contrib
 ### 03. Across the GitHub-Verse
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Ezequie1Sc&show_icons=true&theme=github_dark&hide_border=true&title_color=E63946&icon_color=2563EB" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequie1Sc&layout=compact&theme=github_dark&hide_border=true&title_color=E63946" width="49%" />
