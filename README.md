@@ -91,7 +91,6 @@ I enjoy exploring **AI, cloud technologies, software architecture**, and contrib
 <a href="https://holopin.io/@ezequieldevsc">
 <img src="https://holopin.me/ezequieldevsc" width="100%" alt="Holopin badges" />
 </a>
-
 </div>
 ### 06. Open a Portal
 <div align="center">
