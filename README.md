@@ -16,7 +16,6 @@
 <a href="https://dev.to/ezequie1sc">
 <img src="https://img.shields.io/badge/DEV.to-111827?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
-
 </div>
 ### 01. The Origin Story
 
