@@ -44,7 +44,6 @@ I enjoy exploring **AI, cloud technologies, software architecture**, and contrib
 
 </div>
 
----
 
 ### 03. Across the GitHub-Verse
 
