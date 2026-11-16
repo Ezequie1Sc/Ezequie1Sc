@@ -53,7 +53,6 @@ My interests include Full Stack development, mobile applications, artificial int
 > "With great code comes great responsibility."
 
 ---
-
 ## 02 / Tech Stack
 
 <div align="center">
