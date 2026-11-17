@@ -34,7 +34,6 @@ Computer Systems Engineering Student | Mexico
 
 </div>
 
----
 
 ## 01 / About Me
 
