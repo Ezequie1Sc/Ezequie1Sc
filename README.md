@@ -34,7 +34,6 @@ Computer Systems Engineering Student | Mexico
 
 </div>
 
-
 ## 01 / About Me
 
 I'm **Ezequiel Salazar**, a Computer Systems Engineering student and software developer based in Mexico.
