@@ -174,7 +174,6 @@ AI-powered outdoor adventure platform with personalized missions, achievements, 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezequie1Sc&bg_color=0D1117&color=CDD9E5&line=E63946&point=2563EB&area=true&area_color=E63946&hide_border=true" width="100%" alt="GitHub contribution activity" />
 
 </div>
-
 ---
 
 ## 05 / Open Source & Community
