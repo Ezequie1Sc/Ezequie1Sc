@@ -6,7 +6,6 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1200&color=E63946&center=true&vCenter=true&width=700&height=55&lines=Hey%2C+I'm+Ezequiel+Salazar;Full+Stack+%26+Mobile+Developer;Open+Source+Contributor;Building+Ideas+Into+Reality" alt="Animated introduction" />
-
 <br/>
 
 ### Software Developer · Open Source Contributor · Tech Enthusiast
