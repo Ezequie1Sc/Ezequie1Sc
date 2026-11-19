@@ -83,7 +83,6 @@ My interests include Full Stack development, mobile applications, artificial int
 
 </div>
 
----
 
 ## 03 / Featured Projects
 
