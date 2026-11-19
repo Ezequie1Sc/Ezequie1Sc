@@ -157,7 +157,6 @@ AI-powered outdoor adventure platform with personalized missions, achievements, 
 
 </div>
 
----
 
 ## 04 / GitHub Analytics
 
