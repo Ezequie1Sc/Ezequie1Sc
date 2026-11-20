@@ -12,7 +12,6 @@
 Computer Systems Engineering Student | Mexico
 
 <br/>
-
 <a href="https://ezequieel-dev.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
