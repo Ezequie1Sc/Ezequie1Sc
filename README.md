@@ -130,7 +130,6 @@ Inventory and business management platform for collectible stores, featuring sal
 <td width="50%" valign="top">
 
 ### Ruta Viva AI
-
 AI-powered outdoor adventure platform with personalized missions, achievements, and exploration challenges.
 
 **Tech:** Angular · FastAPI · OpenRouter
