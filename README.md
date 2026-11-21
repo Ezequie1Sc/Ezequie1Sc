@@ -30,7 +30,6 @@ Computer Systems Engineering Student | Mexico
 <img src="https://komarev.com/ghpvc/?username=Ezequie1Sc&label=Profile%20Views&color=E63946&style=flat-square" alt="Profile views" />
 
 </div>
-
 ## 01 / About Me
 
 I'm **Ezequiel Salazar**, a Computer Systems Engineering student and software developer based in Mexico.
