@@ -84,7 +84,6 @@ My interests include Full Stack development, mobile applications, artificial int
 ## 03 / Featured Projects
 
 A selection of projects where I explore software engineering, user experience, artificial intelligence, and modern web technologies.
-
 <table>
 <tr>
 <td width="50%" valign="top">
