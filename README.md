@@ -25,7 +25,6 @@ Computer Systems Engineering Student | Mexico
 </a>
 
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=Ezequie1Sc&label=Profile%20Views&color=E63946&style=flat-square" alt="Profile views" />
 
 </div>
