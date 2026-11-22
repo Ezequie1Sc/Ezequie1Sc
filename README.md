@@ -172,7 +172,6 @@ AI-powered outdoor adventure platform with personalized missions, achievements, 
 I believe software development goes beyond writing code. It's also about **collaboration, knowledge sharing, and contributing to the developer ecosystem**.
 
 My journey includes contributions to open-source projects, participation in developer events, and continuous learning through technical communities.
-
 <div align="center">
 
 <a href="https://github.com/pulls?q=is%3Apr+author%3AEzequie1Sc">
