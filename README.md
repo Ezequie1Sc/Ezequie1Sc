@@ -234,7 +234,6 @@ My journey includes contributions to open-source projects, participation in deve
 
 </div>
 
----
 
 ## 07 / Digital Badge Collection
 
