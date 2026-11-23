@@ -157,7 +157,6 @@ AI-powered outdoor adventure platform with personalized missions, achievements, 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequie1Sc&layout=compact&theme=github_dark&hide_border=true&title_color=E63946&text_color=CDD9E5" width="49%" alt="Most used languages" />
 
 <br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=Ezequie1Sc&theme=github-dark-blue&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=2563EB" width="75%" alt="GitHub contribution streak" />
 
 <br/><br/>
