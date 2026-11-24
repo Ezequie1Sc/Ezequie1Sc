@@ -68,7 +68,6 @@ My interests include Full Stack development, mobile applications, artificial int
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark&perline=3" alt="Databases" />
 
 <br/>
-
 ### Development Tools & Cloud
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel,postman&theme=dark&perline=7" alt="Development tools" />
