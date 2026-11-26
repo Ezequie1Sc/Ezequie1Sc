@@ -258,7 +258,6 @@ A collection of digital achievements earned through open-source contributions, d
 I'm always interested in learning opportunities, meaningful collaborations, open-source initiatives, and challenging software projects.
 
 <br/>
-
 <a href="mailto:ezequielsc017@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-E63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
 </a>
